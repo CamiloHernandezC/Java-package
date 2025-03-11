@@ -1,1 +1,2 @@
-# Java-package
+# publish-java-package-with-maven
+Publishing java packages with maven
